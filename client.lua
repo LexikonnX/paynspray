@@ -1,8 +1,8 @@
 local Locale = {
-    ["PayNSpray"] = "Opravna",
+    ["PayNSpray"] = "Car repair",
     ["FixVehicle"] = "Repair for $",
-    ["NoMoney"] = "Nedostatek ~y~penez~w~!",
-    ["Fixed"] = "Opraveno"
+    ["NoMoney"] = "No ~y~money~w~!",
+    ["Fixed"] = "Fixed"
 }
 local paynspray = {
     {pos = vector3(731.93811, -1088.66113, 21.74439), blip = true, moneyMultiplier = 1.0},
